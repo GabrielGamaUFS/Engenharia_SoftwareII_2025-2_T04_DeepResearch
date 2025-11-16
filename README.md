@@ -280,10 +280,14 @@ Após a substituição do modelo, é necessário reiniciar a sessão do ambiente
 
 Acesse a versão em PDF contendo:
 
+- Introdução ao tema
+- Tutorial
 - A análise detalhada
 - Conclusões estruturadas
 - Comparações entre modelos
 - Tabelas <br>
+- Dificuldades e limitações
+- Referências
 
 ### [Acessar documento](ESII-análise.pdf) <br>
 
