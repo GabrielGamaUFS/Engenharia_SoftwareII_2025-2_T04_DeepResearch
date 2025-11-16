@@ -271,7 +271,7 @@ O procedimento pode ser repetido para cada um dos cinco modelos de linguagem uti
 
 <p align="center"> <img src="assets/tutorial6.jpg" width="70%"> </p>
 
-Após a substituição do modelo, é necessário reiniciar a sessão do ambiente, Para isso, clique na seta para baixo (“Mais ações”) e em seguida “Reinicar sessão”.
+Após a substituição do modelo, é necessário reiniciar a sessão do ambiente, Para isso, clique na seta para baixo (“Mais ações”) e em seguida “Reinicar sessão”. Logo depois, retorne ao passo anterior.
 <p align="center"> <img src="assets/tutorial7.jpg" width="70%"> </p>
 
 ---
