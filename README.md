@@ -1,16 +1,17 @@
 # 📘 Análise de Padrões Arquiteturais do DeepResearch com LLMs
-
 ## Equipe 1 - DeepResearch
-### 01 - João Andryel Santos Menezes - 202300061652 <br>
-### 02 - Gabriel Ramos de Carvalho - 202300061920 <br>
-### 03 - Larissa Batista dos Santos - 202300061705 <br>
-### 04 - Ellen Karolliny dos Santos - 202300114326 <br>
-### 05 - Paloma dos Santos- 202300061723 <br>
-### 06 - Álex Santos Alencar - 202300061518 <br>
-### 07 - Rauany Ingrid Santos de Jesus - 202300061760 <br>
-### 08 - Gabriel Luiz Santos Gama Barreto - 202300114335 <br>
+| Nome                              | Matrícula     | Descrição da atividade                                                                                   |
+|----------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
+| Álex Santos Alencar              | 202300061518  | Realização da análise manual do projeto no GitHub.                                                       |
+| Ellen Karolliny dos Santos       | 202300114326  | Definição sobre padrões arquiteturais, exemplos sobre os padrões mais conhecidos.                             |
+| Gabriel Luiz Santos Gama Barreto | 202300114335  | Auxílio na construção do prompt dos modelos e do tutorial. Análise dos relatórios gerados pelo deepseek e codellama. |
+| Gabriel Ramos de Carvalho        | 202300061920  | Ajuda na escolha dos modelos e criação do prompt. Apresentação e discussão dos resultados obtidos a partir do MistralAI. |
+| João Andryel Santos Menezes      | 202300061652  | Escolha dos modelos, criação do prompt. Análise dos resultados e apresentação do Phi 3 mini.              |
+| Larissa Batista dos Santos       | 202300061705  | Análise e apresentação dos resultados obtidos utilizando o modelo Qwen2.5.                                        |
+| Paloma dos Santos                | 202300061723  | Comparação e análise dos modelos selecionados. Ajuda na criação do modelo do documento .docx (Resposta da análise e tutorial). |
+| Rauany Ingrid Santos de Jesus    | 202300061760  | Introdução de padrões arquiteturais, auxílio na criação do doc de análise, desenvolvimento dos slides e edição do vídeo. |
 
-### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch
+### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Modelo que será analisado)
 ---
 ## Vídeo de apresentação dos resultados do projeto
 ### [Acessar vídeo](https://drive.google.com/file/d/1LWLBEVQrYNaxog7Xz0Lq3KmnPvoMZx3o/view?usp=sharing)<br>
